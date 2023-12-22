@@ -1,0 +1,1 @@
+Simple clock's code
